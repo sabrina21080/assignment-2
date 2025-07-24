@@ -464,7 +464,13 @@ body {
 /* Responsive */
 @media screen and (max-width: 600px) {
 
-  
+  .hero-grid{
+    flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
+
+   
+  }
 
   .product-grid {
     display: grid;
