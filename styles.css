@@ -471,6 +471,9 @@ body {
 
    
   }
+  .badge {
+    display: none;
+  }
 
   .product-grid {
     display: grid;
